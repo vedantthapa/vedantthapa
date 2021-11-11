@@ -22,7 +22,7 @@ class VedantThapa:
         },
         self.languageSpoken = [en_US, hi_IN],
         self.askMeAbout = [Tech, Hackathons, Memes, Soccer, Anything!],
-        self.activity = "I am currenty competing in Makerere Passion Fruit Disease Detection Challenge on Zindi"
+        self.activity = "I am currenty competing in PetFinder.my Pawpularity Contest on Kaggle"
     
     def say_hi(self):
         print("Thanks for dropping by :D")
