@@ -1,6 +1,6 @@
 # Namaste🙏,  I'm Vedant Thapa!
 
-A 23 year old Data Analyst from 🇮🇳 Mumbai, India currently living in 🇨🇦 Halifax, Canada	
+A 25 year old Data Science Engineer from 🇮🇳 Mumbai, India currently living in 🇨🇦 Halifax, Canada	
   - 🎒  *Saint Mary's University, Halifax*
   - 💡  *Big Data, Cloud, Computer Vision*
   - 📚  *UI/UX, Deep Learning*
